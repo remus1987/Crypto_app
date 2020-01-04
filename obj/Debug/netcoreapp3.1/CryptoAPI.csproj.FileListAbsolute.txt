@@ -1,0 +1,14 @@
+C:\Users\Remus Iftimie\Personal_GitHub\CryptoAPI\bin\Debug\netcoreapp3.1\CryptoAPI.exe
+C:\Users\Remus Iftimie\Personal_GitHub\CryptoAPI\bin\Debug\netcoreapp3.1\CryptoAPI.deps.json
+C:\Users\Remus Iftimie\Personal_GitHub\CryptoAPI\bin\Debug\netcoreapp3.1\CryptoAPI.runtimeconfig.json
+C:\Users\Remus Iftimie\Personal_GitHub\CryptoAPI\bin\Debug\netcoreapp3.1\CryptoAPI.runtimeconfig.dev.json
+C:\Users\Remus Iftimie\Personal_GitHub\CryptoAPI\bin\Debug\netcoreapp3.1\CryptoAPI.dll
+C:\Users\Remus Iftimie\Personal_GitHub\CryptoAPI\bin\Debug\netcoreapp3.1\CryptoAPI.pdb
+C:\Users\Remus Iftimie\Personal_GitHub\CryptoAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Remus Iftimie\Personal_GitHub\CryptoAPI\obj\Debug\netcoreapp3.1\CryptoAPI.AssemblyInfoInputs.cache
+C:\Users\Remus Iftimie\Personal_GitHub\CryptoAPI\obj\Debug\netcoreapp3.1\CryptoAPI.AssemblyInfo.cs
+C:\Users\Remus Iftimie\Personal_GitHub\CryptoAPI\obj\Debug\netcoreapp3.1\CryptoAPI.csproj.CopyComplete
+C:\Users\Remus Iftimie\Personal_GitHub\CryptoAPI\obj\Debug\netcoreapp3.1\CryptoAPI.dll
+C:\Users\Remus Iftimie\Personal_GitHub\CryptoAPI\obj\Debug\netcoreapp3.1\CryptoAPI.pdb
+C:\Users\Remus Iftimie\Personal_GitHub\CryptoAPI\obj\Debug\netcoreapp3.1\CryptoAPI.csprojAssemblyReference.cache
+C:\Users\Remus Iftimie\Personal_GitHub\CryptoAPI\bin\Debug\netcoreapp3.1\SoapFormatter.dll
